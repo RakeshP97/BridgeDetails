@@ -1,0 +1,7 @@
+com\bridge\service\BridgeServiceImpl.class
+com\bridge\service\BridgeService.class
+com\bridge\controller\BridgeControlloer.class
+com\bridge\dao\BridgeDAO.class
+com\bridge\model\Bridge.class
+com\bridge\dao\BridgeDAOImpl.class
+com\bridge\RESTConfiguration.class
